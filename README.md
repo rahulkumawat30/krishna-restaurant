@@ -140,6 +140,8 @@ cd krishna-restaurant
 
 ## 📸 Website Preview
 
+Live Demo :>> https://rahulkumawat30.github.io/krishna-restaurant/
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97a02dc1-0b8a-4671-96cd-6421c7cd559b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b354f75b-1eaf-44d6-85de-62f363422772" />
 
